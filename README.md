@@ -102,6 +102,6 @@ See `LICENSE.md` for details.
 ## ⭐ Contributing
 
 Pull requests and suggestions are welcome!  
-Feel free to open an [issue](https://github.com/gdipace23/rotating-machine-signal-processing-matlab/issues) or create a PR.
+Feel free to open an [issue](https://github.com/gdipace23/signal-processing-toolkit-matlab/issues) or create a PR.
 
 ---
