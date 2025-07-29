@@ -27,7 +27,7 @@ repository-root/
 ├── examples/ % Example scripts
 │ └── demoAngularResampling.m
 ├── README.md
-└── LICENSE.md
+└── LICENSE (MIT)
 ```
 
 ---
